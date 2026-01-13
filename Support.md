@@ -17,7 +17,7 @@
   <p>
     You can also review our Privacy Policy for details on how ForgetMeNot handles data:
     <br>
-    <a href="privacy-policy.html">View Privacy Policy</a>
+    <a href="Privacy-Policy.md">View Privacy Policy</a>
   </p>
 
 </body>
